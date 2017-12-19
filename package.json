@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "babel-preset-env": "^1.6.1",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
   },
   "devDependencies": {
     "nodemon": "^1.13.3"
